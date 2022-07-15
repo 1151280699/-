@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\addsetting.o
+./debug\deletesetting.o
+./debug\graph.o
+./debug\map.o
+./debug\moc_mainwindow.o
+./debug\moc_addsetting.o
+./debug\moc_deletesetting.o
+./debug\moc_map.o
+);

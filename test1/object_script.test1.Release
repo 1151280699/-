@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\addsetting.o
+./release\deletesetting.o
+./release\graph.o
+./release\map.o
+./release\moc_mainwindow.o
+./release\moc_addsetting.o
+./release\moc_deletesetting.o
+./release\moc_map.o
+);
